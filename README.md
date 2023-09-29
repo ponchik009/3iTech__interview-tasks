@@ -1,3 +1,31 @@
+# Запуск
+
+## Задача 1
+```console
+cd task1
+```
+
+```console
+npm i
+```
+
+```console
+npm start
+```
+
+## Задача 2
+```console
+cd task2
+```
+
+```console
+npm i
+```
+
+```console
+npm start
+```
+
 # Тестовое задание
 
 ## 1. Верстка
